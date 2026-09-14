@@ -1,0 +1,5 @@
+Hallo! Das ist eine kleine Testdatei, die von Grok erstellt wurde.
+
+Zeitstempel: 2025-04-05
+
+Alles funktioniert – Lesen und Schreiben klappt.
